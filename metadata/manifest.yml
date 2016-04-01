@@ -57,10 +57,10 @@ Endpoints:
       health: true
 - Private-IP-Name:     IP
   Private-Port-Name: PORT1
-  Private-Port: 2001
+  Private-Port: 10001
 - Private-IP-Name:     IP
   Private-Port-Name: PORT2
-  Private-Port: 2002
+  Private-Port: 10002
 - Private-IP-Name:     IP
   Private-Port-Name: PORT3
-  Private-Port: 2003
+  Private-Port: 10003
